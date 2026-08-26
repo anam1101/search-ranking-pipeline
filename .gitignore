@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+*.egg-info/
+
+# Datasets — download separately, see README
+data.txt
+web-Google.txt
+*.gz
